@@ -3,12 +3,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #A37871;
     color: #333;
 }
 header {
-    background-color: #d9534f;
-    color: white;
+    background-color: #8C7B8E;
+    color: #8C7B8E;
+    ;
     padding: 10px 0;
     text-align: center;
 }
@@ -18,21 +19,22 @@ nav {
 nav a {
     margin: 0 15px;
     text-decoration: none;
-    color: #d9534f;
+    color: #4381C1; 
     font-weight: bold;
 }
 .container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: white;
+    background-color: #BEA2C2;
+ 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #d9534f;
-    color: white;
+    background-color: #A37871;
+    color: #BEA2C2;
     position: relative;
     bottom: 0;
     width: 100%;
@@ -42,12 +44,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #BEA2C2;
     color: #333;
 }
 header {
-    background-color: #d9534f;
-    color: white;
+    background-color: #A37871;
+    color: #030302;
     padding: 10px 0;
     text-align: center;
 }
@@ -57,21 +59,21 @@ nav {
 nav a {
     margin: 0 15px;
     text-decoration: none;
-    color: #d9534f;
+    color: #4E4B5C;
     font-weight: bold;
 }
 .container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: white;
+    background-color: #BDADEA;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #d9534f;
-    color: white;
+    background-color:  #4E4B5C;
+    color: #8C7B8E;
     position: relative;
     bottom: 0;
     width: 100%;
